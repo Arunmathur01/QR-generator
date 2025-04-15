@@ -24,11 +24,7 @@ A simple and user-friendly QR Code Generator built using **HTML**, **CSS**, and 
 
 ---
 
-## 📸 Screenshot
 
-
-
----
 
 ## 📂 Project Structure
 
